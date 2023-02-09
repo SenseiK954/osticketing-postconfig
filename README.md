@@ -22,6 +22,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Configure Departments
 - Configure Teams
 - Configure Agents
+- Configure Users
 - Configure SLAs
 - Configure Help Topics
 
@@ -35,23 +36,41 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <img src="https://i.imgur.com/bMBQ717.png" height="50%" width="50%" alt="Disk Sanitization Steps"/><img src="https://i.imgur.com/BS0dYZM.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 
+<p>Once logged in, we will begin configuring by establishing a role named "Supreme Admin," which will let whoever is assigned to this role to do pretty much anything. Make sure you're in the Admin Panel by checking the top right, which should indicate "Agent Panel" (whatever panel you're in reflects the opposite panel as a link to access that panel). Simply create role and fill out. Path: Admin Panel -> Agents -> Roles</p>
 
-<p>Once logged in, we will begin configuring by establishing a role named "Supreme Admin," which will let whoever is assigned to this role to do pretty much anything. Make sure you're in the Admin Panel by checking the top right, which should indicate "Agent Panel" (whatever panel you're in reflects the opposite panel as a link to access that panel). Path: Admin Panel -> Agents -> Roles </p>
+<h5>Configure Departments</h5>
 
-<h5>Sign in Portals for Admin and Users</h5>
+<img src="https://i.imgur.com/bMBQ717.png" height="50%" width="50%" alt="Disk Sanitization Steps"/><img src="https://i.imgur.com/bMBQ717.png" height="50%" width="50%" alt="Disk Sanitization Steps"/><img src="https://i.imgur.com/bMBQ717.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 
-<img src="https://i.imgur.com/vryn8Hw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>This is where you will create and configure the specific departments and also a place where you can add agents to department. Path: Admin Panel -> Agents -> Departments</p>
 
-<p>Here is a quick visual of both sign portals for the Admin and User. Note: the visual differences.</p>
+<h6>Configure Teams</h6>
 
-<h6>Sign in Portals for Admin and Users</h6>
+<img src="https://i.imgur.com/bMBQ717.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 
-<img src="https://i.imgur.com/vryn8Hw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>Here is a quick visual of both sign portals for the Admin and User. Note: the visual differences. Admin Panel -> Agents -> Teams</p>
 
-<p>Here is a quick visual of both sign portals for the Admin and User. Note: the visual differences.</p>
+<h7>Configure Agents</h7>
 
-<h7>Sign in Portals for Admin and Users</h7>
+<img src="https://i.imgur.com/bMBQ717.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 
-<img src="https://i.imgur.com/vryn8Hw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>Here is a quick visual of both sign portals for the Admin and User. Note: the visual differences. Admin Panel -> Agents -> Add New</p>
 
-<p>Here is a quick visual of both sign portals for the Admin and User. Note: the visual differences.</p>
+<h7>Configure Users</h7>
+
+<img src="https://i.imgur.com/bMBQ717.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+
+<p>Here is a quick visual of both sign portals for the Admin and User. Note: the visual differences. Agent Panel -> Users -> Add New</p>
+
+<h7>Configure SLAs</h7>
+
+<img src="https://i.imgur.com/bMBQ717.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+
+<p> Admin Panel -> Manage -> SLA</p>
+
+<h7>Configure Help Topics</h7>
+
+<img src="https://i.imgur.com/bMBQ717.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+
+<p> Admin Panel -> Manage -> Help Topics</p>
+
