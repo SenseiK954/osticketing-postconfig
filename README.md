@@ -28,4 +28,4 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h3>Sign in Portals for Admin and Users</h3>
 
-![0](https://i.imgur.com/vryn8Hw.png)![1](https://i.imgur.com/vryn8Hw.png)
+![1](https://i.imgur.com/vryn8Hw.png) ![2](https://i.imgur.com/vryn8Hw.png)
