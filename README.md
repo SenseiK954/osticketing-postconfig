@@ -42,7 +42,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <img src="https://i.imgur.com/nJxxxFm.png" height="50%" width="50%" alt="Disk Sanitization Steps"/><img src="https://i.imgur.com/PKReGIF.png" height="50%" width="50%" alt="Disk Sanitization Steps"/><p align="center"><img src="https://i.imgur.com/y1c8FDH.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 
-<p>This is where you will create and configure the specific departments and also a place where you can add agents to said departments. We are going to add to new department called "System Administrators", to just briefly walk through the setup of a department. Simply leave everything default and create (unless you have adjustments you wish to make). Path: Admin Panel -> Agents -> Departments</p>
+<p>Departments are where you will create and configure the specific departments and also a place where you can add agents to said departments. We are going to add to new department called "System Administrators", to just briefly walk through the setup of a department. Simply leave everything default and create (unless you have adjustments you wish to make). Path: Admin Panel -> Agents -> Departments</p>
 
 <h3>Configure Teams</h3>
 
@@ -52,9 +52,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h3>Configure Agents</h3>
 
-<img src="https://i.imgur.com/bMBQ717.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/5DoDYax.png" height="50%" width="50%" alt="Disk Sanitization Steps"/><img src="https://i.imgur.com/81Cwoib.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 
-<p>Here is a quick visual of both sign portals for the Admin and User. Note: the visual differences. Admin Panel -> Agents -> Add New</p>
+<p>Agents are where you will create agent profiles for your agents. From here you can setup their privileges, status, reset password, and assign teams. Simply "Add New Agent", fill in required information, configure, and create Agent. Admin Panel -> Agents -> Add New</p>
 
 <h3>Configure Users</h3>
 
