@@ -54,13 +54,13 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <img src="https://i.imgur.com/5DoDYax.png" height="50%" width="50%" alt="Disk Sanitization Steps"/><img src="https://i.imgur.com/81Cwoib.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 
-<p>Agents are where you will create agent profiles for your agents. From here you can setup their privileges, status, reset password, and assign teams. Simply "Add New Agent", fill in required information, configure, and create Agent. Admin Panel -> Agents -> Add New</p>
+<p>Agents are where you will create agent profiles for your agents(workers). From here you can setup their privileges, status, reset password, and assign teams. Simply "Add New Agent", fill in required information, configure, and create Agent. Path: Admin Panel -> Agents -> Add New</p>
 
 <h3>Configure Users</h3>
 
-<img src="https://i.imgur.com/bMBQ717.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ANez3ef.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 
-<p>Here is a quick visual of both sign portals for the Admin and User. Note: the visual differences. Agent Panel -> Users -> Add New</p>
+<p>Users is where you primarily configure your osTicket customer accounts. This will allow them to submit tickets that will be handled by your Agent. To create a user profile, go to the "Agent Panel" side and choose users. Very similar to setting up an Agent profile except without most configuration options. Create once all needed information has been entered. Path: Agent Panel -> Users -> Add New</p>
 
 <h3>Configure SLAs</h3>
 
