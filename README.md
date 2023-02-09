@@ -6,7 +6,6 @@
 <h1>osTicket - Post-Install Configuration</h1>
 This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket. Now that we have osTicket successfully installed we will be making general configuration on the platform as an Admin. As we dive in we will view the basic setup and visuals of an Admin under the "Admin Panel" and the basic setup and visuals of a Agent under the "Agent Panel". <br />
 
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -30,4 +29,4 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <img src="https://i.imgur.com/vryn8Hw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-<p> Here is a quick visual of both sign portals for the Admin and User. Note: the visual differences. </p>
+<p>Here is a quick visual of both sign portals for the Admin and User. Note: the visual differences.</p>
