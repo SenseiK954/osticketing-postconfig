@@ -40,7 +40,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h3>Configure Departments</h3>
 
-<img src="https://i.imgur.com/nJxxxFm.png" height="50%" width="50%" alt="Disk Sanitization Steps"/><img src="https://i.imgur.com/PKReGIF.png" height="50%" width="50%" alt="Disk Sanitization Steps"/><img src="https://i.imgur.com/y1c8FDH.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/nJxxxFm.png" height="50%" width="50%" alt="Disk Sanitization Steps"/><img src="https://i.imgur.com/PKReGIF.png" height="50%" width="50%" alt="Disk Sanitization Steps"/><p align="center"><img src="https://i.imgur.com/y1c8FDH.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 
 <p>This is where you will create and configure the specific departments and also a place where you can add agents to said departments. We are going to add to new department called "System Administrators", to just briefly walk through the setup of a department. Simply leave everything default and create (unless you have adjustments you wish to make). Path: Admin Panel -> Agents -> Departments</p>
 
