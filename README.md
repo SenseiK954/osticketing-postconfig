@@ -30,3 +30,27 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/vryn8Hw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <p>Here is a quick visual of both sign portals for the Admin and User. Note: the visual differences.</p>
+
+<h4>Configure Roles</h4>
+
+<img src="https://i.imgur.com/vryn8Hw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<p>Once logged in, we will begin configuring by establishing a role named "Supreme Admin," which will let whoever is assigned to this role to do pretty much anything. Make sure you're in the Admin Panel by checking the top right, which should indicate "Agent Panel" (whatever panel you're in reflects the opposite panel as a link to access that panel).  </p>
+
+<h5>Sign in Portals for Admin and Users</h5>
+
+<img src="https://i.imgur.com/vryn8Hw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<p>Here is a quick visual of both sign portals for the Admin and User. Note: the visual differences.</p>
+
+<h6>Sign in Portals for Admin and Users</h6>
+
+<img src="https://i.imgur.com/vryn8Hw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<p>Here is a quick visual of both sign portals for the Admin and User. Note: the visual differences.</p>
+
+<h7>Sign in Portals for Admin and Users</h7>
+
+<img src="https://i.imgur.com/vryn8Hw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<p>Here is a quick visual of both sign portals for the Admin and User. Note: the visual differences.</p>
