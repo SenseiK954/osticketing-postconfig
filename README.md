@@ -27,7 +27,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h3>Sign in Portals for Admin and Users</h3>
 
-<img src="https://i.imgur.com/vryn8Hw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/PuYpElv.png" height="50%" width="50%" alt="Disk Sanitization Steps"/><img src="https://i.imgur.com/GXtON0E.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 
 <p>Here is a quick visual of both sign portals for the Admin and User. Note: the visual differences.</p>
 
