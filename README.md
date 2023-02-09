@@ -28,4 +28,4 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h3>Sign in Portals for Admin and Users</h3>
 
-![1](https://i.imgur.com/vryn8Hw.png "height="50%" width="50%"alt="Disk Sanitization Steps") ![2](https://i.imgur.com/vryn8Hw.png)
+<img src="https://i.imgur.com/vryn8Hw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
