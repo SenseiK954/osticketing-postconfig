@@ -44,31 +44,31 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <p>This is where you will create and configure the specific departments and also a place where you can add agents to said departments. We are going to add to new department called "System Administrators", to just briefly walk through the setup of a department. Simply leave everything default and create (unless you have adjustments you wish to make). Path: Admin Panel -> Agents -> Departments</p>
 
-<h6>Configure Teams</h6>
+<h3>Configure Teams</h3>
 
 <img src="https://i.imgur.com/OPx0SLD.png" height="50%" width="50%" alt="Disk Sanitization Steps"/><img src="https://i.imgur.com/6AvHNwL.png.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 
 <p>Teams are where you'd want to build up a specific team of agents from any department in one group, whether to tackle certain tickets/issues or another means to allocate specific responsibilities to employees outside of a single department. Here we will simply "Add a New Team", name it, fill in any specific configurations (like adding members) and create. Path: Admin Panel -> Agents -> Teams</p>
 
-<h7>Configure Agents</h7>
+<h3>Configure Agents</h3>
 
 <img src="https://i.imgur.com/bMBQ717.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 
 <p>Here is a quick visual of both sign portals for the Admin and User. Note: the visual differences. Admin Panel -> Agents -> Add New</p>
 
-<h8>Configure Users</h8>
+<h3>Configure Users</h3>
 
 <img src="https://i.imgur.com/bMBQ717.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 
 <p>Here is a quick visual of both sign portals for the Admin and User. Note: the visual differences. Agent Panel -> Users -> Add New</p>
 
-<h9>Configure SLAs</h9>
+<h3>Configure SLAs</h3>
 
 <img src="https://i.imgur.com/bMBQ717.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 
 <p> Admin Panel -> Manage -> SLA</p>
 
-<h10>Configure Help Topics</h10>
+<h3>Configure Help Topics</h3>
 
 <img src="https://i.imgur.com/bMBQ717.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 
