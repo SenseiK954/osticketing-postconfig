@@ -40,15 +40,15 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h5>Configure Departments</h5>
 
-<img src="https://i.imgur.com/bMBQ717.png" height="50%" width="50%" alt="Disk Sanitization Steps"/><img src="https://i.imgur.com/bMBQ717.png" height="50%" width="50%" alt="Disk Sanitization Steps"/><img src="https://i.imgur.com/bMBQ717.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/nJxxxFm.png" height="50%" width="50%" alt="Disk Sanitization Steps"/><img src="https://i.imgur.com/PKReGIF.png" height="50%" width="50%" alt="Disk Sanitization Steps"/><img src="https://i.imgur.com/y1c8FDH.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 
-<p>This is where you will create and configure the specific departments and also a place where you can add agents to department. Path: Admin Panel -> Agents -> Departments</p>
+<p>This is where you will create and configure the specific departments and also a place where you can add agents to said departments. We are going to add to new department called "System Administrators", to just briefly walk through the setup of a department. Simply leave everything default and create (unless you have adjustments you wish to make). Path: Admin Panel -> Agents -> Departments</p>
 
 <h6>Configure Teams</h6>
 
-<img src="https://i.imgur.com/bMBQ717.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/OPx0SLD.png" height="50%" width="50%" alt="Disk Sanitization Steps"/><img src="https://i.imgur.com/6AvHNwL.png.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 
-<p>Here is a quick visual of both sign portals for the Admin and User. Note: the visual differences. Admin Panel -> Agents -> Teams</p>
+<p>Teams are where you'd want to build up a specific team of agents from any department in one group, whether to tackle certain tickets/issues or another means to allocate specific responsibilities to employees outside of a single department. Here we will simply "Add a New Team", name it, fill in any specific configurations (like adding members) and create. Path: Admin Panel -> Agents -> Teams</p>
 
 <h7>Configure Agents</h7>
 
@@ -56,19 +56,19 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <p>Here is a quick visual of both sign portals for the Admin and User. Note: the visual differences. Admin Panel -> Agents -> Add New</p>
 
-<h7>Configure Users</h7>
+<h8>Configure Users</h8>
 
 <img src="https://i.imgur.com/bMBQ717.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 
 <p>Here is a quick visual of both sign portals for the Admin and User. Note: the visual differences. Agent Panel -> Users -> Add New</p>
 
-<h7>Configure SLAs</h7>
+<h9>Configure SLAs</h9>
 
 <img src="https://i.imgur.com/bMBQ717.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 
 <p> Admin Panel -> Manage -> SLA</p>
 
-<h7>Configure Help Topics</h7>
+<h10>Configure Help Topics</h10>
 
 <img src="https://i.imgur.com/bMBQ717.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 
