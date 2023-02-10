@@ -64,9 +64,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h3>Configure SLAs</h3>
 
-<img src="https://i.imgur.com/bMBQ717.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/9ka9wZA.png" height="50%" width="50%" alt="Disk Sanitization Steps"/><img src="https://i.imgur.com/6JMq0Qa.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 
-<p> Admin Panel -> Manage -> SLA</p>
+<p>SLA is where you want to create SLA plans which will be attached to tickets and departments to identify the level of severity for a tickect and the schedule required to meet the service agreements made to clients(customers). Usually, these will be made based on the companies standards. If needed to create, simply click "add new SLA plan", configure, then create. Path: Admin Panel -> Manage -> SLA</p>
 
 <h3>Configure Help Topics</h3>
 
