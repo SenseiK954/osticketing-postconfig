@@ -70,7 +70,10 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h3>Configure Help Topics</h3>
 
-<img src="https://i.imgur.com/bMBQ717.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/dcXjGaH.png" height="50%" width="50%" alt="Disk Sanitization Steps"/><img src="https://i.imgur.com/1i8DArM.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 
-<p> Admin Panel -> Manage -> Help Topics</p>
+<p>Help Topics are made to help identify common issues or common ticket types which can help an agent stay organized and be more efficient at prioritization of tickets. To create simply click "add new help topic", configure, and create. Path: Admin Panel -> Manage -> Help Topics</p>
+
+
+<p><b>CONGRATULATIONS! Now you know how to add and basic configure most of the functions in osTicket. Well Done!</b></p>
 
