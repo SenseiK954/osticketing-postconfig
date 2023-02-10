@@ -75,5 +75,5 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>Help Topics are made to help identify common issues or common ticket types which can help an agent stay organized and be more efficient at prioritization of tickets. To create simply click "add new help topic", configure, and create. Path: Admin Panel -> Manage -> Help Topics</p>
 
 
-<p><b>CONGRATULATIONS! Now you know how to add and basic configure most of the functions in osTicket. Well Done!</b></p>
+<p align="center"><b>CONGRATULATIONS! Now you know how to add and basic configure most of the functions in osTicket. Well Done!</b></p>
 
